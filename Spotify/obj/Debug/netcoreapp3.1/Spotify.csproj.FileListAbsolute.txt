@@ -1,0 +1,5 @@
+/Users/yoavbeiser/Downloads/program/C#/Spotify/Spotify/Spotify/obj/Debug/netcoreapp3.1/Spotify.csproj.AssemblyReference.cache
+/Users/yoavbeiser/Downloads/program/C#/Spotify/Spotify/Spotify/obj/Debug/netcoreapp3.1/Spotify.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yoavbeiser/Downloads/program/C#/Spotify/Spotify/Spotify/obj/Debug/netcoreapp3.1/Spotify.AssemblyInfoInputs.cache
+/Users/yoavbeiser/Downloads/program/C#/Spotify/Spotify/Spotify/obj/Debug/netcoreapp3.1/Spotify.AssemblyInfo.cs
+/Users/yoavbeiser/Downloads/program/C#/Spotify/Spotify/Spotify/obj/Debug/netcoreapp3.1/Spotify.csproj.CoreCompileInputs.cache
